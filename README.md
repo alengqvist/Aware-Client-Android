@@ -1,7 +1,9 @@
 Aware
 ============
 <b>OBS! Innehåller endast min del av källkoden!</b><br /><br />
-Projektarbete i grupp - 2DV409 - VT2015
+
+Projektarbete i grupp - 2DV409 - VT2015<br>
+Slutbetyg: <b>4</b>
 
 Fabian Gillholm - fg222cj - Projektledare<br />
 Tim Emanuelsson - te222ds - Produktansvarig<br />
