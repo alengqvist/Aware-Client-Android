@@ -1,6 +1,6 @@
 Aware
 ============
-<b>OBS! Denna del innehåller endast min del av källkoden!</b><br /><br />
+<b>OBS! Innehåller endast min del av källkoden!</b><br /><br />
 Projektarbete i grupp - 2DV409 - VT2015
 
 Fabian Gillholm - fg222cj - Projektledare<br />
